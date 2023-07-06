@@ -20,3 +20,13 @@ body {
     justify-content: center;
 }
 
+.quote-container {
+    width: auto;
+    max-width: 900px;
+    /* Top/bottom ----- left/right */
+    padding: 20px 30px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.9);
+    /* ofset left/right    up/down  blur    radius    color*/
+    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
