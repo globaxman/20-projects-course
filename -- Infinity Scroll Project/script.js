@@ -4,7 +4,7 @@ const loader = document.getElementById('loader');
 
 // unsplash API
 let count = 3;
-const apiKey = 'your API key';
+const apiKey = '';
 const apiUrl = `https://api.unsplash.com//photos/random/?client_id=${apiKey}&count=${count}`;
 
 let ready = false;
