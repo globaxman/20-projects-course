@@ -13,7 +13,7 @@ function toggleButton(){
 // possing joke to voicerss api
 function tellMe(joke){
     VoiceRSS.speech({
-        key: '646fbb7561b140a9905aa0a45258264d',
+        key: 'your api',
         src: joke,
         hl: 'en-us',
         r: 0,
