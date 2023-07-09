@@ -9,12 +9,23 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- dark mode switch -->
+    <div class="theme-switch-wrapper">
+        <span id="toggle-icon">
+            <span class="toggle-text">Light Mode</span>
+            <i class="fas fa-sun"></i>
+        </span>
+        <label class="theme-switch">
+            <input type="checkbox">
+            <div class="slider round"></div>
+        </label>
+    </div>
     <!-- navigation -->
     <nav id="nav">
         <a href="#home">HOME</a>
         <a href="#about">ABOUT</a>
         <a href="#projects">PROJECTS</a>
-        <a href="contact">CONTACT ME</a>
+        <a href="#contact">CONTACT ME</a>
     </nav>
     <!-- home section -->
     <section id="home">
@@ -27,19 +38,48 @@
     <section id="about">
         <div class="title-group">
             <h1>about me</h1>
+            <div class="about-container">
+                <div class="image-container">
+                    <h2>Web innovation</h2>
+                    <img src="img/undraw_proud_coder_light.svg" alt="" id="image1">
+                </div>
+                <div class="image-container">
+                    <h2>Web innovation</h2>
+                    <img src="img/undraw_feeling_proud_light.svg" alt="" id="image2">
+                </div>
+                <div class="image-container">
+                    <h2>Web innovation</h2>
+                    <img src="img/undraw_conceptual_idea_light.svg" alt="" id="image3">
+                </div>
+            </div>
         </div>
     </section>
     <!-- project section -->
     <section id="projects">
-        <div class="title-group">
-            <h1>My projects</h1>
-        </div>
-    </section>
-    <!-- Contact me -->
+            <h1>Buttons</h1>
+            <div class="buttons">
+                <button class="primary">Primary</button>
+                <button class="secondary">Secondary</button>
+                <button class="primary">Disabled</button>
+                <button class="outline">Outline</button>
+                <button class="secondary outline">Alt Outline</button>
+                <button class="outline">Disabled</button>
+            </div>
+            <div class="text-box" id="text-box">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam assumenda temporibus eaque maiores fuga doloribus asperiores architecto. Magnam, cupiditate! Eaque veritatis accusantium vel dolore veniam commodi! Vel id impedit officia.</p>
+            </div>
+        </section>
+        <!-- Contact me -->
     <section id="contact">
-        <div class="title-group">
             <h1>Contact me</h1>
-        </div>
+            <div class="social-icons">
+                <i class="fab fa-github"></i>
+                <i class="fab fa-codepen"></i>
+                <i class="fab fa-linkedin-in"></i>
+                <i class="fab fa-medium"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-youtube"></i>
+            </div>
     </section>
     <!-- Script -->
     <script src="script.js"></script>
