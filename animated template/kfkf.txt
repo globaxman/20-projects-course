@@ -1,0 +1,11 @@
+<img decoding="async" width="1024" height="1024" src="https://hasten.pl/wp-content/uploads/2023/03/Academy-of-Hasten-nauka-plywania-dla-dzieci-doroslych-i-niemowlat-Warszawa-Mikolaj-Machnik-2022-1024x1024.jpg" class="attachment-large size-large wp-image-23499" alt="" loading="lazy" srcset="https://hasten.pl/wp-content/uploads/2023/03/Academy-of-Hasten-nauka-plywania-dla-dzieci-doroslych-i-niemowlat-Warszawa-Mikolaj-Machnik-2022-1024x1024.jpg 1024w, https://hasten.pl/wp-content/uploads/2023/03/Academy-of-Hasten-nauka-plywania-dla-dzieci-doroslych-i-niemowlat-Warszawa-Mikolaj-Machnik-2022-300x300.jpg 300w, https://hasten.pl/wp-content/uploads/2023/03/Academy-of-Hasten-nauka-plywania-dla-dzieci-doroslych-i-niemowlat-Warszawa-Mikolaj-Machnik-2022-150x150.jpg 150w, https://hasten.pl/wp-content/uploads/2023/03/Academy-of-Hasten-nauka-plywania-dla-dzieci-doroslych-i-niemowlat-Warszawa-Mikolaj-Machnik-2022-768x768.jpg 768w, https://hasten.pl/wp-content/uploads/2023/03/Academy-of-Hasten-nauka-plywania-dla-dzieci-doroslych-i-niemowlat-Warszawa-Mikolaj-Machnik-2022-1536x1536.jpg 1536w, https://hasten.pl/wp-content/uploads/2023/03/Academy-of-Hasten-nauka-plywania-dla-dzieci-doroslych-i-niemowlat-Warszawa-Mikolaj-Machnik-2022.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
+
+
+
+<div id="elementor-tab-title-2531" class="elementor-tab-title elementor-active" data-tab="1" role="tab" aria-controls="elementor-tab-content-2531" aria-expanded="true" tabindex="0" aria-selected="true">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title"></a>
+					</div>
