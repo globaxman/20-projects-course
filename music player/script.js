@@ -119,8 +119,8 @@ function updateProgressBar(e){
         let currentSeconds = Math.floor(currentTime % 60);
         if(currentSeconds < 10){
             currentSeconds = `0${currentSeconds}`;
-        }
-        currentTime.textContent = `${currentMinutes}:${currentSeconds}`
+        };
+        currentTimeEl.textContent = `${currentMinutes}:${currentSeconds}`;
     }
 }
 
@@ -135,5 +135,6 @@ function setProgressBar(c){
 // event listener
 prevBtn.addEventListener('click', prevSong);
 nextBtn.addEventListener('click', nextSong);
+music.addEventListener('ended', nextSong)
 music.addEventListener('timeupdate', updateProgressBar);
 progressContainer.addEventListener('click', setProgressBar)
